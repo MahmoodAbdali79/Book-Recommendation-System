@@ -67,7 +67,7 @@ This API returns the result of all requests that sent by the user.
 
 ## Status Codes
 
-Thi web-service returns the following status codes in its API:
+This web-service returns the following status codes in its API:
 
 | Status Code | Description |
 | :--- | :--- |
