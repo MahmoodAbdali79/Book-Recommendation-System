@@ -12,9 +12,9 @@ In Overall, the aproach of creating model is collaborating filtering and the out
 This API gets a book name as the user's preferred book and returns a similar book that could be interesting to the user.
 
 #### Request
-```http
-Curl http://127.0.0.1:8000/recomend/?book=1984
-```
+
+    Curl http://127.0.0.1:8000/recomend/?book=1984
+
 | Parameter | Type | Description |
 | :--- | :--- | :--- |
 | `book` | `string` | **Required**. Book Name |
@@ -42,9 +42,9 @@ Curl http://127.0.0.1:8000/recomend/?book=1984
 This API returns the result of all requests that sent by the user.
 
 #### Request
-```http
-Curl http://127.0.0.1:8000
-```
+
+    Curl http://127.0.0.1:8000
+
 
 #### Response
 
