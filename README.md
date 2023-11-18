@@ -4,7 +4,7 @@ this project contains two part. The fris, is model and implimentation for predic
 
 ## About the model
 In Overall, the aproach of creating model is collaborating filtering and the output files of the model are `PivotTable.csv` and `Re-Array.npy`.
-After installing the requirements and running the program normally, the following documentation is available.
+After installing the requirements and running the application normally, the following documentation is available.
 
 ### Recomend New Book
 This API gets a book name as the user's preferred book and returns a similar book that could be interesting to the user.
