@@ -18,8 +18,7 @@ pip install -r requirements.txt
 
 # Quick Use
 
-Create an example.py file
-Run :
+Run this command to start the streamlit :
 
 ```shell
 streamlit run .\Home.py
