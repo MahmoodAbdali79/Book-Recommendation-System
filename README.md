@@ -32,4 +32,4 @@ In this short video, you can see how this works as well.
 
 # Notice
 
-After running the `Home.py` you find out there is no book.csv file. you can download it from [here]().
+After running the `Home.py` you find out there is no book.csv file. you can download it from [here](https://drive.google.com/file/d/19h8UCdJ-bK9a7vMnjnBr8d-3bMcRb1hA/view).
