@@ -28,7 +28,7 @@ streamlit run .\Home.py
 
 In this short video, you can see how this works as well.
 
-![example image](https://github.com/MahmoodAbdali79/Book-Recommendation-System/blob/main/Demo/Video.mp4)
+https://github.com/MahmoodAbdali79/Book-Recommendation-System/assets/66196589/7b21a04e-750a-4125-9497-e2fb6beea2d5
 
 # Notice
 
