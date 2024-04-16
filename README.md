@@ -28,10 +28,7 @@ streamlit run .\Home.py
 
 In this short video, you can see how this works as well.
 
-
-
-https://github.com/MahmoodAbdali79/Book-Recommendation-System/assets/66196589/67489944-8886-46ed-9795-ada166bc539c
-
+![](https://github.com/MahmoodAbdali79/Book-Recommendation-System/blob/main/Demo/Video.gif)
 
 
 # Notice
