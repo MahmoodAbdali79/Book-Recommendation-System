@@ -5,6 +5,7 @@ this project contains two parts. The first is the model and implementation for p
 ## About the model
 Overall, the approach of creating a model is collaborating filtering and the output files of the model are `PivotTable.csv` and `Re-Array.npy`.
 After installing the requirements and running the application normally, the following documentation is available.
+
 ---
 
 # Install
