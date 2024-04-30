@@ -26,7 +26,7 @@ streamlit run .\Home.py
 
 # Demo
 
-In this short video, you can see how this works as well.
+In this short video, you can see how this works as well. Also you can test it live [here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation)
 
 https://github.com/MahmoodAbdali79/Book-Recommendation-System/assets/66196589/101c7075-db05-4b60-85f9-f3b6de8e68f7
 
